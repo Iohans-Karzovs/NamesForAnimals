@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/femaleNamesListMenuItem"
+        android:title="@string/female_names">
+
+    </item>
+    <item
+        android:id="@+id/maleNamesListItemMenu"
+        android:title="@string/male_names">
+
+    </item>
+
+</menu>

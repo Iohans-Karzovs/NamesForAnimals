@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Names for animals</string>
+    <string name="nick_choose">Для кого хотите выбрать кличку?</string>
+    <string name="image_description">Фото котика и собаки</string>
+    <string name="for_cat">Для кота</string>
+    <string name="for_dog">Для собаки</string>
+    <string name="button_start">Выбрать!</string>
+    <string name="for_female">Для девочки</string>
+    <string name="for_male">Для мальчика</string>
+    <string name="names_list">Список имен</string>
+    <string name="female_names">Женские имена</string>
+    <string name="male_names">Мужские имена</string>
+    <string name="delete_all_name_menu_item">Удалить все имена</string>
+    <string name="add_name_menu_item">Добавить имя</string>
+    <string name="add_name_hint">Введите имя</string>
+    <string name="add_name_button">Добавить</string>
+    <string name="sort_by_name">Сортировать по имени</string>
+    <string name="sort_by_id">Последние добавленные</string>
+    <string name="restore_all">Восстановить все по умолчанию</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addNameMenuItem"
+        android:title="@string/add_name_menu_item">
+
+    </item>
+    <item
+        android:id="@+id/namesListMenuItem"
+        android:title=""
+        android:onClick="OnClickSortBySex">
+
+    </item>
+
+    <item
+        android:id="@+id/sortByMenuItem"
+        android:title=""
+        android:onClick="onClickSortById">
+
+    </item>
+    <item
+        android:id="@+id/deleteAllMenuItem"
+        android:title="@string/delete_all_name_menu_item">
+
+    </item>
+
+    <item
+        android:id="@+id/restoreAllMenuItem"
+        android:title="@string/restore_all">
+
+    </item>
+
+</menu>
